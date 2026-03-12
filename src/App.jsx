@@ -1,9 +1,10 @@
 import React from 'react';
+import QuizEditor from './components/QuizEditor';
 
 function App() {
   return (
     <div>
-      <h1>Hello Quiz Editor</h1>
+      <QuizEditor />
     </div>
   );
 }
